@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+}
+body{
+  background: #316B83;
+}
+.textField input{
+  color: white;
+}
+.textField label{
+  color: white;
+}
+.textField input::placeholder{
+  color: white;
+}
